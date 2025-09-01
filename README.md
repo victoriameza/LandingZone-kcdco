@@ -18,8 +18,6 @@ El objetivo es mostrar cómo, desde **día cero**, se puede desplegar una plataf
 
 * **`variables.tf`** → Variables de entrada (subscription\_id, prefix, location, etc).
 
-* **`Scripts de despliegue.txt`** → Comandos Terraform para inicializar, desplegar y destruir la infraestructura.
-
 ## ⚙️ Prerrequisitos
 
 1. [Terraform >= 1.5](https://developer.hashicorp.com/terraform/downloads).
